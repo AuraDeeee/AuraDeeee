@@ -1,0 +1,36 @@
+- 👋 Hi, I’m @AuraDeeee
+- 👀 I’m interested in learning use common code to manifest a career
+- 🌱 I’m currently learning html, css, javascript, end eventually python
+- 💞️ I’m looking to collaborate on projects to bounce ideas off fellow programmers
+- 📫 You can reach me @ aurathomas7107@gmail.com
+
+<!---
+AuraDeeee/AuraDeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!DOCTYPE html>
+<head>
+  <title>Aura Unique Thomas</title>
+  
+  <style>
+    body {
+      text-align: center;
+      background: url("/assets/anna-bg.png");
+      background-size: cover;
+      background-position: center;
+      color: pink;
+      font-family: Edwardian Script ITC;
+    }
+    p{ font-size: 28px;}
+    input {border:0;
+    padding:10px;
+    font-size:18px;}
+   input[type="submit"]{ 
+     background: pink;
+     color: Green;}
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/z09GyYj.png">
+  <p>Wazzam ! I am currently a Direct Support Professional. I thought, Hey... why not learn how to program! It's most definitely in demand.  Sooo, here I am. Gracing every keyboard I touch. </p>
+</body>
